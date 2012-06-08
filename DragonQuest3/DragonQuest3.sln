@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DragonQuest3.win32", "DragonQuest3\DragonQuest3.win32.vcproj", "{8C7E1A39-0ECE-4914-9B6D-AE8F212DDC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7E1A39-0ECE-4914-9B6D-AE8F212DDC44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C7E1A39-0ECE-4914-9B6D-AE8F212DDC44}.Debug|Win32.Build.0 = Debug|Win32
+		{8C7E1A39-0ECE-4914-9B6D-AE8F212DDC44}.Release|Win32.ActiveCfg = Release|Win32
+		{8C7E1A39-0ECE-4914-9B6D-AE8F212DDC44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
